@@ -117,6 +117,7 @@ body {
 	align-items: center;
 	padding: 1rem;
 	border: 1px solid transparent;
+	font-weight: 600;
 }
 
 .dropdown__link-icon {
@@ -136,6 +137,7 @@ body {
 
 .sub-dropdown__title {
 	display: block;
+	font-weight: 600;
 }
 
 .sub-dropdown__control {
@@ -169,9 +171,11 @@ body {
 	align-items: center;
 	padding: 1rem;
 	border: 1px solid transparent;
+	font-weight: 600;
 }
 
-.sub-dropdown__link-title {}
+.sub-dropdown__link-title {
+}
 
 .sub-dropdown__link-icon {
 	height: 1.25rem;
