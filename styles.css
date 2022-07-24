@@ -29,12 +29,17 @@ body {
 
 .header__container {
 	padding: 0 1rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .header__title {
 	font-size: 1.25rem;
 	font-weight: 600;
 	color: var(--black-color);
+	text-decoration: none;
+	outline: none;
 }
 
 .header__title:focus,
