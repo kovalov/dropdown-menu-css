@@ -195,3 +195,45 @@ body {
 .sub-dropdown__control:checked {
 	display: none;
 }
+
+@media (min-width: 280px) {
+	.dropdown__content {
+		width: 247px;
+	}
+}
+
+@media (min-width: 360px) {
+	.dropdown__content {
+		width: 327px;
+	}
+}
+
+@media (min-width: 375px) {
+	.dropdown__content {
+		width: 342px;
+	}
+}
+
+@media (min-width: 390px) {
+	.dropdown__content {
+		width: 356px;
+	}
+}
+
+@media (min-width: 393px) {
+	.dropdown__content {
+		width: 359px;
+	}
+}
+
+@media (min-width: 412px) {
+	.dropdown__content {
+		width: 380px;
+	}
+}
+
+@media (min-width: 414px) {
+	.dropdown__content {
+		width: 382px;
+	}
+}
