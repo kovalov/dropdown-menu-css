@@ -151,8 +151,6 @@ body {
 .sub-dropdown__content {
 	display: none;
 	overflow-y: hidden;
-	padding: 1rem;
-	margin: 0 -1rem;
 }
 
 .sub-dropdown__list {
